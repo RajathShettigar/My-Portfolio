@@ -4,7 +4,7 @@ My personal portfolio website showcasing my work, skills, and contact info.
 
 Welcome to my personal portfolio website! This project is designed to showcase my work, skills, and projects in a clean, responsive layout. It also includes a functional contact form to connect with me directly.
 
-🌐 **Live Website:** [rajathshettigar.github.io/portfolio-website](https://rajathshettigar.github.io/portfolio-website)  
+🌐 **Live Website:** [rajathshettigar.github.io/My-Portfolio](https://rajathshettigar.github.io/My-Portfolio)  
 ✉️ **Contact Form Powered by:** [Formspree.io](https://formspree.io)
 
 ---
